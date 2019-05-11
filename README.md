@@ -1,5 +1,7 @@
 # locker
 
+Web frontend for resource locking
+
 ## Project setup
 ```
 yarn install
